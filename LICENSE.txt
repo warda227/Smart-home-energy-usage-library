@@ -1,0 +1,53 @@
+                     PROJECT USE LICENSE
+                         Version 1.0
+             Smart Home Energy Usage Tracking Library
+                       W-67-OOP-2026
+
+
+   This project was written by me, Warda, as part of my
+   Object Oriented Programming assignment. I designed the class
+   structure, wrote the energy tracking logic, and tested all
+   the outputs myself. Please respect that.
+
+
+   WHAT YOU CAN DO
+
+   You are welcome to look at this code and learn from it. If
+   it helped you understand operator overloading or how header
+   libraries work in C++, I am glad it was useful.
+
+
+   WHAT YOU CANNOT DO
+
+   You may not submit this code or any part of it as your own
+   work in any course or institution. You may not remove my
+   name from it or claim ownership. You may not share it
+   without giving me proper credit.
+
+
+   ACADEMIC INTEGRITY
+
+   I wrote this for my own submission. If you are a student
+   looking for help, use this to learn — not to copy.
+
+
+   CREDIT
+
+   If you reference this project anywhere, please mention:
+
+        Author     :  Warda
+        Roll No    :  67
+        Course     :  Object Oriented Programming (OOP)
+        Assignment :  01  —  CLO2
+        Signature  :  W-67-OOP-2026-ENERGY
+
+
+   NO WARRANTY
+
+   This code is shared as-is. I do not guarantee it is
+   perfect or free of bugs. Use it at your own risk.
+
+
+   -----------------------------------------------------------
+   Copyright 2026 — Warda. All rights reserved.
+   -----------------------------------------------------------
